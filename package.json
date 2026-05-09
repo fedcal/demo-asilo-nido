@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-asilo-nido",
+  "name": "demo-asilo-nido",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Asilo Nido — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://asilo-nido.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-asilo-nido.git"
+    "url": "https://github.com/fedcal/demo-asilo-nido.git"
   },
   "scripts": {
     "ng": "ng",

@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Asilo Nido** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://asilo-nido.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-asilo-nido/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-asilo-nido/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-asilo-nido.git
-cd federico-demo-asilo-nido
+git clone https://github.com/fedcal/demo-asilo-nido.git
+cd demo-asilo-nido
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:asilo-nido
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-asilo-nido/
+→ https://fedcal.github.io/demo-asilo-nido/
 
 ## Hub demos Federico
 
