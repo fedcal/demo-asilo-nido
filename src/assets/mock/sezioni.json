@@ -1,0 +1,67 @@
+{
+  "sezioni": [
+    {
+      "id": "piccoli",
+      "nome": "Sezione Piccoli",
+      "etaRange": "3 – 12 mesi",
+      "etaMin": 3,
+      "etaMax": 12,
+      "bambinoMax": 10,
+      "rettaMensile": 700,
+      "educatrici": ["Marta Conti", "Sara Ferretti"],
+      "descrizione": "La sezione Piccoli accoglie i bimbi dai 3 ai 12 mesi in un ambiente curato nei minimi dettagli: spazi morbidi, suoni delicati e routine rassicuranti per favorire l'attaccamento sicuro. Il rapporto educatrice-bambino è 1:3.",
+      "attivita": [
+        "Massaggio neonatale",
+        "Gioco sensoriale con materiali naturali",
+        "Canti e ninne nanne",
+        "Tummy time guidato",
+        "Lettura ad alta voce"
+      ],
+      "emoji": "🍼",
+      "colorBg": "#fff7ed",
+      "colorAccent": "#f97316"
+    },
+    {
+      "id": "medi",
+      "nome": "Sezione Medi",
+      "etaRange": "12 – 24 mesi",
+      "etaMin": 12,
+      "etaMax": 24,
+      "bambinoMax": 15,
+      "rettaMensile": 570,
+      "educatrici": ["Lucia Bianchi", "Elena Marchi", "Chiara Neri"],
+      "descrizione": "La sezione Medi accompagna i bambini nel periodo di maggiore sviluppo motorio e linguistico. Angoli strutturati, materiali Montessori e laboratori di manipolazione stimolano autonomia e creatività. Rapporto 1:5.",
+      "attivita": [
+        "Laboratorio di pittura con colori naturali",
+        "Giochi d'acqua e sabbia",
+        "Musica e ritmo",
+        "Esplorazione natura nel giardino",
+        "Storie con burattini"
+      ],
+      "emoji": "🧸",
+      "colorBg": "#fef3c7",
+      "colorAccent": "#d97706"
+    },
+    {
+      "id": "grandi",
+      "nome": "Sezione Grandi",
+      "etaRange": "24 – 36 mesi",
+      "etaMin": 24,
+      "etaMax": 36,
+      "bambinoMax": 20,
+      "rettaMensile": 450,
+      "educatrici": ["Giulia Rossi", "Valentina Esposito", "Anna Lombardi"],
+      "descrizione": "La sezione Grandi prepara i bambini al passaggio alla scuola dell'infanzia. Attività pre-scolastiche, momenti di gruppo e di autonomia personale (vestirsi, apparecchiare, prendersi cura degli spazi) consolidano competenze sociali e cognitive. Rapporto 1:6.",
+      "attivita": [
+        "Laboratorio di ceramica e creta",
+        "Teatro dei burattini e gioco simbolico",
+        "Piccolo orto pedagogico",
+        "Cucina educativa (ricette semplici)",
+        "Gite al Parco Margherita"
+      ],
+      "emoji": "🎨",
+      "colorBg": "#fdf4ff",
+      "colorAccent": "#a855f7"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "ragioneSociale": "Cooperativa Arcobaleno S.c.r.l.",
+  "nomeCommerciale": "Nido Arcobaleno",
+  "tagline": "Nido d'infanzia 0-3 anni — Bologna",
+  "autorizzazione": "Autorizzazione Comune di Bologna N. 2018/042",
+  "capienza": 45,
+  "indirizzo": {
+    "via": "Via delle Moline 24",
+    "citta": "Bologna",
+    "provincia": "BO",
+    "cap": "40126",
+    "regione": "Emilia-Romagna",
+    "paese": "Italia",
+    "lat": 44.4949,
+    "lng": 11.3426
+  },
+  "contatti": {
+    "telefono": "+39 051 555 0102",
+    "whatsapp": "+39 335 555 0102",
+    "email": "info@nidoarcobaleno.bologna.it",
+    "pec": "nidoarcobaleno@pec.it",
+    "social": {
+      "instagram": "https://instagram.com/nidoarcobaleno_demo",
+      "facebook": "https://facebook.com/nidoarcobaleno_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "07:30 – 17:30",
+    "martedi": "07:30 – 17:30",
+    "mercoledi": "07:30 – 17:30",
+    "giovedi": "07:30 – 17:30",
+    "venerdi": "07:30 – 17:30",
+    "sabato": "Chiuso",
+    "domenica": "Chiuso"
+  },
+  "servizi": {
+    "mensaBiologica": true,
+    "riposino": true,
+    "attivitaEsterne": true,
+    "pedagogista": true,
+    "accessibileDisabili": true,
+    "parcheggioVicino": true,
+    "trasportoScuolabus": false
+  },
+  "metaSeo": {
+    "title": "Nido Arcobaleno — Nido d'infanzia 0-3 anni Bologna",
+    "description": "Nido d'infanzia autorizzato a Bologna per bambini 0-3 anni. Tre sezioni, mensa biologica, 8 educatrici e pedagogista. Retta €450-700/mese.",
+    "keywords": ["asilo nido bologna", "nido infanzia bologna", "nido 0-3 anni", "asilo nido centro bologna"]
+  }
+}

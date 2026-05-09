@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Quali sono gli orari del nido?",
+      "risposta": "Il nido è aperto dal lunedì al venerdì, dalle 07:30 alle 17:30. È prevista l'entrata flessibile fino alle 09:30 e l'uscita flessibile dalle 15:30. Non siamo operativi nei weekend e nei giorni festivi nazionali."
+    },
+    {
+      "domanda": "Com'è strutturata la mensa biologica?",
+      "risposta": "I pasti sono preparati internamente da una cuoca certificata HACCP con ingredienti biologici certificati e stagionali, in accordo con le linee guida del Comune di Bologna. Il menù viene ruotato ogni 4 settimane e adattato alle esigenze alimentari individuali (allergie, intolleranze, diete su certificato medico)."
+    },
+    {
+      "domanda": "Come funziona il riposino pomeridiano?",
+      "risposta": "Ogni bambino ha il proprio lettino personalizzato nella zona riposo. Il riposino è proposto, non imposto: per i Piccoli si svolge dopo il pasto di mezzogiorno, per Medi e Grandi dura circa 1-1,5 ore. Le educatrici restano presenti per tutta la durata."
+    },
+    {
+      "domanda": "Come funziona la prima settimana di inserimento?",
+      "risposta": "L'inserimento graduale dura 5-10 giorni e prevede la presenza del genitore nelle prime sessioni. Il primo giorno si trascorrono 1-2 ore insieme con il genitore presente; nei giorni successivi il tempo aumenta progressivamente fino alla giornata completa. Il ritmo viene concordato con la pedagogista in base al bambino."
+    },
+    {
+      "domanda": "Si organizzano gite o uscite?",
+      "risposta": "La sezione Grandi organizza 2-3 uscite all'anno al Parco Margherita e al Parco della Montagnola. Per i più piccoli le esperienze si svolgono principalmente nel giardino interno. Ogni uscita richiede consenso scritto del genitore."
+    },
+    {
+      "domanda": "Sono richieste vaccinazioni specifiche?",
+      "risposta": "Sì. In base al DL 73/2017 (Legge Lorenzin) sono obbligatorie le vaccinazioni previste dal calendario vaccinale nazionale per i bambini 0-6 anni. Al momento dell'iscrizione è necessario presentare il libretto vaccinale aggiornato o l'esenzione medica."
+    },
+    {
+      "domanda": "Cosa succede se il bambino si ammala?",
+      "risposta": "In caso di febbre superiore a 37,5°C, il genitore viene contattato immediatamente e il bambino non può frequentare finché non è trascorso almeno 1 giorno febbricitante. Per malattie contagiose (varicella, scarlattina ecc.) è richiesto certificato medico di riammissione."
+    },
+    {
+      "domanda": "È possibile richiedere una visita prima dell'iscrizione?",
+      "risposta": "Assolutamente sì, anzi lo consigliamo. Organizziamo giornate porte aperte a ottobre e marzo, ma è possibile prenotare una visita individuale con la pedagogista in qualsiasi momento dell'anno. Compilare il form nella pagina Iscrizioni per fissare un appuntamento."
+    }
+  ]
+}

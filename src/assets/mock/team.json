@@ -1,0 +1,114 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Dott.ssa Francesca Moretti",
+      "ruolo": "Pedagogista",
+      "tipo": "pedagogista",
+      "bio": "Laurea magistrale in Pedagogia dell'infanzia all'Università di Bologna. Coordina il progetto educativo, forma il team e mantiene i rapporti con le famiglie. Specializzata nell'approccio Reggiana e nella metodologia Montessori.",
+      "anniEsperienza": 14,
+      "specialita": ["Approccio Reggiana", "Montessori 0-3", "Consulenza familiare"],
+      "sezione": null
+    },
+    {
+      "id": 2,
+      "nome": "Marta Conti",
+      "ruolo": "Educatrice — Sezione Piccoli",
+      "tipo": "educatrice",
+      "bio": "Diploma in Tecnico dei Servizi Sociali + formazione post-diploma 0-3 anni. Cinque anni nella sezione lattanti, esperta di massaggio neonatale e gioco sensoriale. Referente per l'inserimento graduale dei nuovi bambini.",
+      "anniEsperienza": 7,
+      "specialita": ["Massaggio neonatale", "Attaccamento sicuro", "Inserimento graduale"],
+      "sezione": "piccoli"
+    },
+    {
+      "id": 3,
+      "nome": "Sara Ferretti",
+      "ruolo": "Educatrice — Sezione Piccoli",
+      "tipo": "educatrice",
+      "bio": "Laurea triennale in Scienze dell'Educazione. Specializzata in comunicazione non verbale e linguaggio del corpo nel bambino 0-12 mesi. Co-conduttrice dei laboratori di musica per neonati.",
+      "anniEsperienza": 5,
+      "specialita": ["Comunicazione non verbale", "Musica per neonati", "Osservazione 0-12 mesi"],
+      "sezione": "piccoli"
+    },
+    {
+      "id": 4,
+      "nome": "Lucia Bianchi",
+      "ruolo": "Educatrice — Sezione Medi",
+      "tipo": "educatrice",
+      "bio": "Diploma tecnico + 9 anni di esperienza nella sezione medi. Responsabile del laboratorio di pittura con pigmenti naturali e del piccolo orto del nido. Formatrice interna sui materiali Montessori.",
+      "anniEsperienza": 9,
+      "specialita": ["Materiali Montessori", "Arte 12-24 mesi", "Laboratori sensoriali"],
+      "sezione": "medi"
+    },
+    {
+      "id": 5,
+      "nome": "Elena Marchi",
+      "ruolo": "Educatrice — Sezione Medi",
+      "tipo": "educatrice",
+      "bio": "Laurea in Scienze della Formazione Primaria. Esperta di sviluppo del linguaggio verbale e narrazione. Conduce le sedute di lettura ad alta voce con albi illustrati selezionati per fascia d'età.",
+      "anniEsperienza": 6,
+      "specialita": ["Sviluppo linguaggio", "Lettura albi illustrati", "Narrazione 12-24 mesi"],
+      "sezione": "medi"
+    },
+    {
+      "id": 6,
+      "nome": "Chiara Neri",
+      "ruolo": "Educatrice — Sezione Medi",
+      "tipo": "educatrice",
+      "bio": "Diploma tecnico con specializzazione in musicoterapia infantile. Responsabile del laboratorio musicale con strumenti Orff adattati. Tre anni di esperienza precedente in asilo nido privato a Ferrara.",
+      "anniEsperienza": 5,
+      "specialita": ["Musicoterapia 12-24 mesi", "Strumenti Orff", "Giochi motori"],
+      "sezione": "medi"
+    },
+    {
+      "id": 7,
+      "nome": "Giulia Rossi",
+      "ruolo": "Educatrice — Sezione Grandi",
+      "tipo": "educatrice",
+      "bio": "Laurea in Scienze dell'Educazione con tesi sull'autonomia personale 24-36 mesi. Coordina la sezione Grandi e il raccordo pedagogico con la scuola dell'infanzia di riferimento. Referente per i colloqui con le famiglie in uscita.",
+      "anniEsperienza": 10,
+      "specialita": ["Autonomia 24-36 mesi", "Raccordo 0-3/materna", "Progettazione"],
+      "sezione": "grandi"
+    },
+    {
+      "id": 8,
+      "nome": "Valentina Esposito",
+      "ruolo": "Educatrice — Sezione Grandi",
+      "tipo": "educatrice",
+      "bio": "Diploma e master in Pedagogia del Gioco. Responsabile dell'orto pedagogico e della cucina educativa. Le sue attività con la creta e la ceramica sono diventate un punto di forza del nido.",
+      "anniEsperienza": 8,
+      "specialita": ["Cucina educativa", "Orto pedagogico", "Ceramica e creta"],
+      "sezione": "grandi"
+    },
+    {
+      "id": 9,
+      "nome": "Anna Lombardi",
+      "ruolo": "Educatrice — Sezione Grandi",
+      "tipo": "educatrice",
+      "bio": "Laurea triennale in Scienze dell'Educazione. Specializzata in teatro e gioco simbolico per bambini 2-3 anni. Conduce laboratori di burattini e travestimenti che stimolano il pensiero narrativo.",
+      "anniEsperienza": 4,
+      "specialita": ["Teatro dei burattini", "Gioco simbolico", "Narrazione creativa"],
+      "sezione": "grandi"
+    },
+    {
+      "id": 10,
+      "nome": "Roberta Longo",
+      "ruolo": "Ausiliaria",
+      "tipo": "ausiliaria",
+      "bio": "Tredici anni di esperienza come ausiliaria in strutture educative. Responsabile dell'igiene degli spazi, della preparazione dei pasti e del supporto durante i momenti di cura.",
+      "anniEsperienza": 13,
+      "specialita": ["HACCP certificata", "Gestione spazi igienici", "Supporto cura"],
+      "sezione": null
+    },
+    {
+      "id": 11,
+      "nome": "Marco Vitale",
+      "ruolo": "Ausiliario",
+      "tipo": "ausiliaria",
+      "bio": "Diploma tecnico, formazione HACCP e primo soccorso. Si occupa della logistica, della manutenzione degli spazi esterni e del supporto nel momento del riposo pomeridiano.",
+      "anniEsperienza": 6,
+      "specialita": ["Primo soccorso", "Manutenzione spazi", "Giardino e outdoor"],
+      "sezione": null
+    }
+  ]
+}
